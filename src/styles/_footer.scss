@@ -1,0 +1,150 @@
+.footer {
+  font-family: "Raleway", sans-serif;
+  background: $black_bg;
+  position: relative;
+  @media (max-width: 767px) {
+    padding: 0 15px;
+  }
+  .footer_links {
+    padding: 70px 0;
+    ul {
+      margin: 0;
+      padding: 0;
+      li {
+        list-style: none;
+        color: $link_color;
+        font-size: 15px;
+        text-transform: capitalize;
+        padding: 5px 0;
+        font-weight: 600;
+
+        &.social_links {
+          display: flex;
+          gap: 15px;
+          .icon_area {
+            background: $theme_color;
+            height: 40px;
+            width: 40px;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 38px;
+            color: $white;
+          }
+        }
+        .contact_group {
+          padding: 5px 0 10px 0;
+          border-bottom: 1px solid $theme_color;
+          display: flex;
+          gap: 25px;
+          align-items: center;
+          text-transform: none;
+          .icon_area {
+            background: $theme_color;
+            height: 40px;
+            width: 40px;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 38px;
+            color: $white;
+          }
+          .text_double {
+            .option_name {
+              font-size: 13px;
+              color: $link_color;
+              &.value {
+                color: $white;
+                font-weight: 500;
+                font-size: 15px;
+              }
+            }
+          }
+        }
+
+        &.casino_text {
+          text-transform: none;
+        }
+        &.list_heading {
+          font-weight: 600;
+        }
+        .red_dash {
+          margin-top: 5px;
+          margin-bottom: 15px;
+          height: 3px;
+          background: $theme_color;
+          width: 45px;
+          display: inline-block;
+          &.white {
+            margin-left: 4px;
+            height: 3px;
+            background: $white;
+            width: 8px;
+            display: inline-block;
+          }
+        }
+        a {
+          text-decoration: none;
+          color: $link_color;
+          &:hover {
+            color: $theme_color;
+          }
+          &.active {
+            color: $theme_color;
+          }
+          .footer_logo {
+            max-height: 70px;
+          }
+        }
+      }
+    }
+  }
+
+  .copyright_section {
+    border-top: 1px solid $link_color;
+    .copyright_text {
+      color: $white;
+      text-align: center;
+      font-size: 16px;
+      padding: 30px 0;
+    }
+  }
+  .scrolling_up {
+    position: absolute;
+    bottom: 15px;
+    right: 10px;
+    text-align: -webkit-right;
+    // text-align: right;
+
+    .whatsapp {
+      height: 80px;
+      width: 80px;
+      border-radius: 50%;
+      background: $white;
+      font-size: 50px;
+      color: #4fce5d;
+      text-align: center;
+      position: relative;
+      line-height: 80px;
+      .status {
+        height: 10px;
+        width: 10px;
+        background: $theme_color;
+        position: absolute;
+        top: 0px;
+        right: 12px;
+        border-radius: 50%;
+      }
+    }
+    .scroll_top {
+      background: $theme_color;
+      height: 50px;
+      width: 50px;
+      border-radius: 50%;
+      color: $white;
+      font-size: 25px;
+      text-align: center;
+      margin: 0;
+      line-height: 45px;
+      
+    }
+  }
+}

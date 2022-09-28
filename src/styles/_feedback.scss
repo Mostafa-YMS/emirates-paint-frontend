@@ -1,0 +1,198 @@
+.feedback {
+  font-family: 'Raleway', sans-serif;
+  position: fixed;
+  overflow: hidden;
+  color: rgb(0, 0, 0);
+  background-color: rgb(237, 237, 237);
+  border-top: 2px solid rgb(166, 166, 166);
+  border-right: 2px solid rgb(166, 166, 166);
+  border-bottom: 2px solid rgb(166, 166, 166);
+  border-left: none;
+  border-image: initial;
+  box-sizing: border-box;
+  transition: all 0.7s ease-in-out 0s;
+  margin: 0px;
+  padding: 0px;
+  z-index: 2000000001;
+  height: 75%;
+  border-radius: 0px 2px 2px 0px;
+  max-width: 400px;
+  left: 0px;
+  bottom: 82px;
+  width: 0px;
+
+  &.show {
+    width: 100vw;
+  }
+
+  .feedback_toggle {
+    position: fixed;
+    visibility: visible;
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+    padding: 0px;
+    margin: 0px;
+    bottom: 268px;
+    left: 0px;
+    width: 35px;
+    height: 120px;
+    background: #db1a28;
+    transition: all 0.3s ease-in-out 0s;
+    writing-mode: vertical-lr;
+    text-align: center;
+    font-size: 12px;
+    line-height: 30px;
+    color: #f0f0f0;
+    font-weight: 500;
+    &.show {
+      left: 400px;
+    }
+    .feed_toggle_btn {
+      svg {
+        writing-mode: vertical-lr;
+        path {
+          writing-mode: vertical-lr;
+        }
+      }
+    }
+  }
+  .feedback_body {
+    .feedback_progress {
+      width: 70%;
+      margin: 10px auto;
+      .progress {
+        background: #d6d4d4;
+        height: 5px;
+        border-radius: 5px;
+        .progress-bar {
+          border-radius: 5px;
+          background: #db1a28;
+          width: 0%;
+          &.step_two {
+            width: 20%;
+          }
+          &.step_three {
+            width: 35%;
+          }
+          &.step_four {
+            width: 50%;
+          }
+          &.step_five {
+            width: 65%;
+          }
+          &.step_six {
+            width: 85%;
+          }
+          &.step_seven {
+            width: 100%;
+          }
+        }
+      }
+    }
+    .feedback_close {
+      position: absolute;
+      right: 15px;
+      top: 15px;
+      cursor: pointer;
+    }
+
+    .feedback_heading {
+      text-align: center;
+      color: #757575;
+      font-size: 16px;
+      padding: 0 15px;
+
+      margin: 0 auto;
+      font-weight: 400;
+    }
+    .form_checkbox {
+      cursor: pointer;
+      display: grid;
+      // grid-gap: 15px;
+      grid-template-columns: 10% 90%;
+      align-items: center;
+      padding: 15px;
+      background: rgba(0, 0, 0, 0.06);
+      color: #757575;
+      label {
+        margin-bottom: 0 !important;
+        width: 100%;
+        height: 100%;
+        .text_area {
+          color: #757575;
+          font-size: 14px;
+          font-weight: 400;
+        }
+      }
+    }
+    .next_button {
+      text-align: right;
+      margin-right: 15px;
+      .nxt_btn {
+        border: none;
+        color: #fff;
+        font-size: 16px;
+        padding: 8px 20px;
+        -webkit-border-radius: 4px;
+        -moz-border-radius: 4px;
+        -ms-border-radius: 4px;
+        -o-border-radius: 4px;
+        border-radius: 4px;
+        cursor: pointer;
+        line-height: 22px;
+        margin: 2px;
+        text-align: center;
+        background: #db1a28;
+        text-decoration: none;
+        -webkit-appearance: none;
+        transition: background 0.3s;
+        &:hover {
+          background: #000000;
+        }
+      }
+    }
+
+    .feedback_footer {
+      text-align: center;
+      a {
+        font-size: 14px;
+        color: #757575;
+        text-decoration: none;
+        padding: 12px 24px;
+      }
+    }
+
+    .step_body {
+      height: 400px;
+      scroll-behavior: smooth;
+      overflow: auto;
+    }
+  }
+}
+
+.star-rating {
+  text-align: center;
+  .input_ratting {
+    border: 2px solid #9b9b9b;
+    background-color: rgba(0, 0, 0, 0.06);
+    max-width: 100%;
+    color: #757575;
+    width: 50px;
+  }
+  .star_btn {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 30px;
+
+    &.on {
+      color: goldenrod;
+    }
+    &.off {
+      color: #ccc;
+      // border: 1px solid red;
+    }
+  }
+}

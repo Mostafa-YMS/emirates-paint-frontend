@@ -1,0 +1,440 @@
+[
+  {
+    "id": 1,
+    "path": "/images/living/1.jpg",
+    "group": "living"
+  },
+  {
+    "id": 2,
+    "path": "/images/living/2.jpg",
+    "group": "living"
+  },
+  {
+    "id": 3,
+    "path": "/images/living/3.jpg",
+    "group": "living"
+  },
+  {
+    "id": 4,
+    "path": "/images/living/4.jpg",
+    "group": "living"
+  },
+  {
+    "id": 5,
+    "path": "/images/living/5.jpg",
+    "group": "living"
+  },
+  {
+    "id": 6,
+    "path": "/images/living/6.jpg",
+    "group": "living"
+  },
+  {
+    "id": 7,
+    "path": "/images/living/7.jpg",
+    "group": "living"
+  },
+  {
+    "id": 8,
+    "path": "/images/living/8.jpg",
+    "group": "living"
+  },
+  {
+    "id": 9,
+    "path": "/images/living/9.jpg",
+    "group": "living"
+  },
+  {
+    "id": 10,
+    "path": "/images/living/10.jpg",
+    "group": "living"
+  },
+  {
+    "id": 11,
+    "path": "/images/living/11.jpg",
+    "group": "living"
+  },
+  {
+    "id": 12,
+    "path": "/images/living/12.jpg",
+    "group": "living"
+  },
+  {
+    "id": 13,
+    "path": "/images/bed/1.jpg",
+    "group": "bed"
+  },
+  {
+    "id": 14,
+    "path": "/images/bed/2.jpg",
+    "group": "bed"
+  },
+  {
+    "id": 15,
+    "path": "/images/bed/3.jpg",
+    "group": "bed"
+  },
+  {
+    "id": 16,
+    "path": "/images/bed/4.jpg",
+    "group": "bed"
+  },
+  {
+    "id": 17,
+    "path": "/images/bed/5.jpg",
+    "group": "bed"
+  },
+  {
+    "id": 18,
+    "path": "/images/bed/6.jpg",
+    "group": "bed"
+  },
+  {
+    "id": 19,
+    "path": "/images/bed/7.jpg",
+    "group": "bed"
+  },
+  {
+    "id": 20,
+    "path": "/images/bed/8.jpg",
+    "group": "bed"
+  },
+  {
+    "id": 21,
+    "path": "/images/bed/9.jpg",
+    "group": "bed"
+  },
+  {
+    "id": 22,
+    "path": "/images/bed/10.jpg",
+    "group": "bed"
+  },
+  {
+    "id": 23,
+    "path": "/images/bed/11.jpg",
+    "group": "bed"
+  },
+  {
+    "id": 24,
+    "path": "/images/bed/12.jpg",
+    "group": "bed"
+  },
+  {
+    "id": 25,
+    "path": "/images/dining/1.jpg",
+    "group": "dining"
+  },
+  {
+    "id": 26,
+    "path": "/images/dining/2.jpg",
+    "group": "dining"
+  },
+  {
+    "id": 27,
+    "path": "/images/dining/3.jpg",
+    "group": "dining"
+  },
+  {
+    "id": 28,
+    "path": "/images/dining/4.jpg",
+    "group": "dining"
+  },
+  {
+    "id": 29,
+    "path": "/images/dining/5.jpg",
+    "group": "dining"
+  },
+  {
+    "id": 30,
+    "path": "/images/dining/6.jpg",
+    "group": "dining"
+  },
+  {
+    "id": 31,
+    "path": "/images/dining/7.jpg",
+    "group": "dining"
+  },
+  {
+    "id": 32,
+    "path": "/images/dining/8.jpg",
+    "group": "dining"
+  },
+  {
+    "id": 33,
+    "path": "/images/dining/9.jpg",
+    "group": "dining"
+  },
+  {
+    "id": 34,
+    "path": "/images/dining/10.jpg",
+    "group": "dining"
+  },
+  {
+    "id": 35,
+    "path": "/images/dining/11.jpg",
+    "group": "dining"
+  },
+  {
+    "id": 36,
+    "path": "/images/dining/12.jpg",
+    "group": "dining"
+  },
+  {
+    "id": 37,
+    "path": "/images/kitchen/1.jpg",
+    "group": "kitchen"
+  },
+  {
+    "id": 38,
+    "path": "/images/kitchen/2.jpg",
+    "group": "kitchen"
+  },
+  {
+    "id": 39,
+    "path": "/images/kitchen/3.jpg",
+    "group": "kitchen"
+  },
+  {
+    "id": 40,
+    "path": "/images/kitchen/4.jpg",
+    "group": "kitchen"
+  },
+  {
+    "id": 41,
+    "path": "/images/kitchen/5.jpg",
+    "group": "kitchen"
+  },
+  {
+    "id": 42,
+    "path": "/images/kitchen/6.jpg",
+    "group": "kitchen"
+  },
+  {
+    "id": 43,
+    "path": "/images/kitchen/7.jpg",
+    "group": "kitchen"
+  },
+  {
+    "id": 44,
+    "path": "/images/kitchen/8.jpg",
+    "group": "kitchen"
+  },
+  {
+    "id": 45,
+    "path": "/images/kitchen/9.jpg",
+    "group": "kitchen"
+  },
+  {
+    "id": 46,
+    "path": "/images/kitchen/10.jpg",
+    "group": "kitchen"
+  },
+  {
+    "id": 47,
+    "path": "/images/kitchen/11.jpg",
+    "group": "kitchen"
+  },
+  {
+    "id": 48,
+    "path": "/images/kitchen/12.jpg",
+    "group": "kitchen"
+  },
+
+  {
+    "id": 49,
+    "path": "/images/bathroom/1.jpg",
+    "group": "bathroom"
+  },
+  {
+    "id": 50,
+    "path": "/images/bathroom/2.jpg",
+    "group": "bathroom"
+  },
+  {
+    "id": 51,
+    "path": "/images/bathroom/3.jpg",
+    "group": "bathroom"
+  },
+  {
+    "id": 52,
+    "path": "/images/bathroom/4.jpg",
+    "group": "bathroom"
+  },
+  {
+    "id": 53,
+    "path": "/images/bathroom/5.jpg",
+    "group": "bathroom"
+  },
+  {
+    "id": 54,
+    "path": "/images/bathroom/6.jpg",
+    "group": "bathroom"
+  },
+  {
+    "id": 55,
+    "path": "/images/bathroom/7.jpg",
+    "group": "bathroom"
+  },
+  {
+    "id": 56,
+    "path": "/images/bathroom/8.jpg",
+    "group": "bathroom"
+  },
+  {
+    "id": 57,
+    "path": "/images/bathroom/9.jpg",
+    "group": "bathroom"
+  },
+  {
+    "id": 58,
+    "path": "/images/bathroom/10.jpg",
+    "group": "bathroom"
+  },
+  {
+    "id": 59,
+    "path": "/images/bathroom/11.jpg",
+    "group": "bathroom"
+  },
+  {
+    "id": 60,
+    "path": "/images/bathroom/12.jpg",
+    "group": "bathroom"
+  },
+
+  {
+    "id": 61,
+    "path": "/images/exterior/1.jpg",
+    "group": "exterior"
+  },
+  {
+    "id": 62,
+    "path": "/images/exterior/2.jpg",
+    "group": "exterior"
+  },
+  {
+    "id": 63,
+    "path": "/images/exterior/3.jpg",
+    "group": "exterior"
+  },
+  {
+    "id": 64,
+    "path": "/images/exterior/4.jpg",
+    "group": "exterior"
+  },
+  {
+    "id": 65,
+    "path": "/images/exterior/5.jpg",
+    "group": "exterior"
+  },
+  {
+    "id": 66,
+    "path": "/images/exterior/6.jpg",
+    "group": "exterior"
+  },
+  {
+    "id": 67,
+    "path": "/images/exterior/7.jpg",
+    "group": "exterior"
+  },
+  {
+    "id": 68,
+    "path": "/images/exterior/8.jpg",
+    "group": "exterior"
+  },
+  {
+    "id": 69,
+    "path": "/images/exterior/9.jpg",
+    "group": "exterior"
+  },
+  {
+    "id": 70,
+    "path": "/images/exterior/10.jpg",
+    "group": "exterior"
+  },
+  {
+    "id": 71,
+    "path": "/images/exterior/11.jpg",
+    "group": "exterior"
+  },
+  {
+    "id": 72,
+    "path": "/images/exterior/12.jpg",
+    "group": "exterior"
+  },
+
+  {
+    "id": 73,
+    "path": "/images/commercial/1.jpg",
+    "group": "commercial"
+  },
+  {
+    "id": 74,
+    "path": "/images/commercial/2.jpg",
+    "group": "commercial"
+  },
+  {
+    "id": 75,
+    "path": "/images/commercial/3.jpg",
+    "group": "commercial"
+  },
+  {
+    "id": 76,
+    "path": "/images/commercial/4.jpg",
+    "group": "commercial"
+  },
+  {
+    "id": 77,
+    "path": "/images/commercial/5.jpg",
+    "group": "commercial"
+  },
+  {
+    "id": 78,
+    "path": "/images/commercial/6.jpg",
+    "group": "commercial"
+  },
+  {
+    "id": 79,
+    "path": "/images/commercial/7.jpg",
+    "group": "commercial"
+  },
+  {
+    "id": 80,
+    "path": "/images/commercial/8.jpg",
+    "group": "commercial"
+  },
+  {
+    "id": 81,
+    "path": "/images/commercial/9.jpg",
+    "group": "commercial"
+  },
+  {
+    "id": 82,
+    "path": "/images/industrial/1.jpg",
+    "group": "industrial"
+  },
+  {
+    "id": 83,
+    "path": "/images/industrial/2.jpg",
+    "group": "industrial"
+  },
+  {
+    "id": 84,
+    "path": "/images/industrial/3.jpg",
+    "group": "industrial"
+  },
+  {
+    "id": 85,
+    "path": "/images/industrial/4.jpg",
+    "group": "industrial"
+  },
+  {
+    "id": 86,
+    "path": "/images/industrial/5.jpg",
+    "group": "industrial"
+  },
+  {
+    "id": 87,
+    "path": "/images/industrial/6.jpg",
+    "group": "industrial"
+  }
+]
